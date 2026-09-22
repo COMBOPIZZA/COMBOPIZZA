@@ -1,4 +1,5 @@
 ## Hi there 👋
+My name is Cambren Diza, a statistics student at Texas A&M University.
 
 <!--
 **COMBOPIZZA/COMBOPIZZA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
